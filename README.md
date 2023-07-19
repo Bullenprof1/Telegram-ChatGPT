@@ -232,6 +232,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 - Open Issues: ![GitHub open issues](https://img.shields.io/github/issues-raw/MznStudios/Telegram-ChatGPT.svg)
 - Closed Issues: ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/MznStudios/Telegram-ChatGPT.svg)
 
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
