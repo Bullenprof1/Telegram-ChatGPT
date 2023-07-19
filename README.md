@@ -220,6 +220,18 @@ env` file:
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
+## Repository Statistics
+
+- Stars: [![GitHub stars](https://img.shields.io/github/stars/MznStudios/Telegram-ChatGPT.svg?style=social&label=Star)](https://github.com/MznStudios/Telegram-ChatGPT)
+- Forks: [![GitHub forks](https://img.shields.io/github/forks/MznStudios/Telegram-ChatGPT.svg?style=social&label=Fork)](https://github.com/MznStudios/Telegram-ChatGPT)
+- Issues: [![GitHub issues](https://img.shields.io/github/issues/MznStudios/Telegram-ChatGPT.svg)](https://github.com/MznStudios/Telegram-ChatGPT/issues)
+- Pull Requests: [![GitHub pull requests](https://img.shields.io/github/issues-pr/MznStudios/Telegram-ChatGPT.svg)](https://github.com/MznStudios/Telegram-ChatGPT/pulls)
+- License: [![GitHub license](https://img.shields.io/github/license/MznStudios/Telegram-ChatGPT.svg)](https://github.com/MznStudios/Telegram-ChatGPT/blob/main/LICENSE)
+- Last Commit: ![GitHub last commit](https://img.shields.io/github/last-commit/MznStudios/Telegram-ChatGPT.svg)
+- Repository Size: ![GitHub repo size](https://img.shields.io/github/repo-size/MznStudios/Telegram-ChatGPT.svg)
+- Open Issues: ![GitHub open issues](https://img.shields.io/github/issues-raw/MznStudios/Telegram-ChatGPT.svg)
+- Closed Issues: ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/MznStudios/Telegram-ChatGPT.svg)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
