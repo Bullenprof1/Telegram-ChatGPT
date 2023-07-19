@@ -1,2 +1,2 @@
 run:
-  command: python bot.py
+  command: python main.py
