@@ -1,0 +1,19 @@
+{
+  "name": "Telegram ChatGPT Bot",
+  "description": "An AI-powered language model for Telegram chat",
+  "repository": "MznStudios/Telegram-ChatGPT",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Telegram bot token",
+      "required": true
+    },
+    "API_KEY": {
+      "description": "OpenAI API key",
+      "required": true
+    }
+  },
+  "scripts": {
+    "start": "python main.py"
+  },
+  "addons": ["heroku-redis"]
+}
